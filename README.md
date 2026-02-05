@@ -1,5 +1,9 @@
-## Hi there 👋
+#Aarush Rawal
+Student based in Noida.
 
+I spend most of my time figuring out how things work, whether it is a line of code, a circuit board, or a heavy machine. I have a lingering interest in electronics and the physical mechanics that run the world.
+
+Most of what you see here is just an experiment in seeing what breaks first.
 <!--
 **Aaruxhhh/Aaruxhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
