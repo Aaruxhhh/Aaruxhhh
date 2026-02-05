@@ -1,7 +1,7 @@
 #Aarush Rawal
 
 
-Student based in Noida.
+Class 12 Student based in Noida.
 
 I spend most of my time figuring out how things work, whether it is a line of code, a circuit board, or a heavy machine. I have a lingering interest in electronics and the physical mechanics that run the world.
 
