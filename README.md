@@ -8,7 +8,9 @@ I spend most of my time figuring out how things work, whether it is a line of co
 Most of what you see here is just an experiment in seeing what breaks first.
 
 Get to know more about me at:
+
 https://scholar.google.com/citations?hl=en&user=lfranIcAAAAJ
+
 https://medium.com/@AarushRawal
 
 <!--
