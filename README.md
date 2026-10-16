@@ -1,29 +1,17 @@
 # Aarush Rawal
 
+I’m Aarush Rawal, a Class 12 student based in Noida, India. I build software projects and explore electronics and how physical systems work.
 
-Class 12 Student based in Noida.
+## Projects
 
-I spend most of my time figuring out how things work, whether it is a line of code, a circuit board, or a heavy machine. I have a lingering interest in electronics and the physical mechanics that run the world.
+- [UCEED 2026 Score Calculator](https://github.com/Aaruxhhh/UCEED-2026-Score-Calculator)
+- [NCET 2026 Calculator](https://github.com/Aaruxhhh/NCET-2026-Calculator)
+- [Saha App](https://github.com/Aaruxhhh/Saha-App)
+- [InCheck](https://github.com/Aaruxhhh/InCheckNew)
 
-Most of what you see here is just an experiment in seeing what breaks first.
+## Find me elsewhere
 
-Get to know more about me at:
-
-https://scholar.google.com/citations?hl=en&user=lfranIcAAAAJ
-
-https://medium.com/@AarushRawal
-
-<!--
-**Aaruxhhh/Aaruxhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/rawalaarush/)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=lfranIcAAAAJ)
+- [ORCID](https://orcid.org/0009-0006-0951-9644)
+- [Medium](https://medium.com/@AarushRawal)
