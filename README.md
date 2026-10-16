@@ -12,6 +12,7 @@ I’m Aarush Rawal, a Class 12 student based in Noida, India. I build software p
 ## Find me elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/rawalaarush/)
+- [Instagram](https://www.instagram.com/aaruxh__/)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=lfranIcAAAAJ)
 - [ORCID](https://orcid.org/0009-0006-0951-9644)
 - [Medium](https://medium.com/@AarushRawal)
