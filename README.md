@@ -1,6 +1,6 @@
 # Aarush Rawal
 
-I’m Aarush Rawal, a Class 12 student based in Noida, India. I build software projects and explore electronics and how physical systems work.
+I’m Aarush Rawal, a student based in Noida, India. I build software projects and explore electronics and how physical systems work.
 
 ## Projects
 
